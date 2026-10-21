@@ -1,0 +1,7 @@
+Concentric Force was an attempt to realise an old game concept for the final project of Computer Science A-Level. It was to be a PvP 2D shooter/platformer/bullet-hell hybrid kind of thing. That clearly didn't fully work out, but it got rather far for a first ever attempt.
+Two examples exist here: an iteration of the game used to test the control scheme and collision ("Compiled Concentric Force Attempt 2"), and a full arena in a foundry as a proof-of-concept ("Concentric Force Public", this has a HUD on most standard resolutions, but it may not show up on non-standard, sorry!)
+This is in Unity 5 with C# for scripting.
+
+This was made with help from the tutorial videos by Brackeys from before 2021. Pixel bird and terrain assets were found for free on the Unity Asset Store. Sounds are from freesound.org. Music is "Madness Combat 6.5" by Cheshyre, this project was not intended for distribution!
+
+WD to move, Space to jump/double/wall jump, brush up against a wall to wall slide, mouse to aim/fire, ESC to quit. Bird has 4 regenerating shields and 4 non-regenerating health. Consecutive hits increase the score multiplier, but missing resets it. Weapon does not continuously fire on holding Left Click, sorry.
